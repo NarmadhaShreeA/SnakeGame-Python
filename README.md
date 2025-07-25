@@ -25,10 +25,8 @@ A simple **Snake Game** built using **Python's `turtle` module** as part of my *
 
 ## 🚀 How to Run
 
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/NarmadhaShreeA/snakegame-python.git
-cd snakegame-python
+python main.py
+
 ✅ A window will open where you can play using:
 
 Up, Down, Left, Right arrow keys to control the snake.
